@@ -1,4 +1,4 @@
-# Smart Cultural Storyteller 🌍📚
+# Smart Cultural Storyteller 
 
 **An Agentic Geospatial Narrative Engine**
 
@@ -6,7 +6,7 @@ This project is an interactive, map-based AI system that transforms static geogr
 
 ---
 
-## 🚀 Quick Start Guide
+##  Quick Start Guide
 
 ### 1. Prerequisites
 Ensure you have **Python 3.8+** installed.
@@ -51,7 +51,7 @@ Plaintext
     ├── 📄 narrative.py       # Narrative Planning Logic
     ├── 📄 data_service.py    # Geocoding & Cultural Data
     └── 📄 cultural_intelligence_builder.py
-🛠️ Architecture & Features
+ Architecture & Features
 Frontend: MapLibre GL JS (Interactive Map), Chart.js (Cultural Radar).
 
 Backend: FastAPI (High-performance Python server).
@@ -66,7 +66,7 @@ Visualization: Uses DuckDuckGo Search to find real historical images (preventing
 
 Voice: Uses Edge-TTS for neural voice narration.
 
-⚠️ Troubleshooting
+  Troubleshooting
 "Address already in use" Error:
 
 If you restart the kernel, the old server might still be holding Port 8001.
@@ -83,5 +83,6 @@ If images don't appear, the system falls back to a placeholder. This can happen 
 
 Team / Author
 Project: Smart Cultural Storyteller
+
 
 Track: Generative AI / Education & Cultural Heritage
